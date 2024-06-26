@@ -112,9 +112,9 @@ a {
   text-transform: capitalize;
 }
 
-/*.team-list {
-  background-color: #fff;
-}*/
+.team-items {
+  background-color: #ffffff;
+}
 
 .team-heading {
   font-weight: 500;
